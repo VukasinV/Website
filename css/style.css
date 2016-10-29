@@ -1,0 +1,45 @@
+
+#wrap {
+	background-color: #ccc;
+	width: 1200px;
+	margin:0 auto;
+	}
+
+#navMenu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #6D7380;
+    width: 800px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 128px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#meni {
+	background-color: #333;
+	width: 800;
+	text-align: center;
+	vertical-align: center;
+	margin:0 auto;
+}
+
+#meni {
+
+}
